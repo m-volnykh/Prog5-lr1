@@ -1,0 +1,10 @@
+{
+    "name": "Moscow",
+    "country": "RU",
+    "coord": {
+        "lon": 37.6156,
+        "lat": 55.7522
+    },
+    "timezone": "UTC+03:00",
+    "feels_like": 4.78
+}
